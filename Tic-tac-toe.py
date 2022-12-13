@@ -28,7 +28,6 @@ def move_computer(board, AI_letter):
     board.make_move(final_move)
 
 
-
 if __name__ == "__main__":
 
     print('Welcome to Tic Tac Toe!')
