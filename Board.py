@@ -1,6 +1,4 @@
-
 class Board:
-
     def __init__(self):
         # table with all marks
         self.values = [' ' for x in range(9)]
